@@ -2,7 +2,7 @@
 [饿了么一键大红包](https://github.com/SzPluto/elemeHongbao)
 如果你觉得我的项目对你有帮助，欢迎捐助
 
-大佬们不备注的话我就当做是匿名了呀呀呀！！！
+大佬们不备注的话我就当做是匿名了呀
 
 手机用户请点击下方的View all of README.md
 <table>
